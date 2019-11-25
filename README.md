@@ -1,2 +1,2 @@
-# APPR-19/20
+# Analiza podatkov s programom R, 2019/20
 Projektna naloga za APPR
